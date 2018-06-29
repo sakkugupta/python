@@ -1,0 +1,5 @@
+print('hello')
+print('sakshi gupta here')
+print('are you okay?')
+print("summer training")
+print("python started")
